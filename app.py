@@ -15,4 +15,4 @@ def ksi_challenge(challenge: str):
 
 
 if __name__ == '__main__':
-    app.run(threaded=True, port=5000)
+    app.run(threaded=True, port=443)
